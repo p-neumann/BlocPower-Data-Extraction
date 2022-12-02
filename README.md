@@ -9,6 +9,8 @@ Our initial focus was to build a process to streamline and store this data somew
 
 With collaboration with Dr. Chouchane and Dr. Sakk from the Computer Science department, our direction was aligned and we had to solve three main problem statements with future implementation
 
+Solid Technology - https://www.inrupt.com/solid
+
 ## Problem Statements
 - How would we get residents to do anything or share their data to the pod?
 - How would we build relationships with city officials so we can easily get this data?
