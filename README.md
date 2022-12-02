@@ -45,7 +45,7 @@ A Python script was used to network and interact with OpenBaltimore's API to get
 
 Note: pip (Python package manager) comes installed automatically with Python, so to install each package with the command `pip install <package>`
 
-After all the setup as been done, you can run the script and the corresponding excel file will be exported to the same directory as the script file.
+After all the setup as been done, you can run the `main.py` script and the corresponding excel file will be exported to the same directory as the script file.
 
 ## Next steps
 
