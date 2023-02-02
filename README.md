@@ -9,12 +9,12 @@
 The initial phase of the project to collect important housing data within the city of Baltimore and store them in decentralized Solid pods for public view and ownership
 
 ## Overview
-Dr. Terri Adams (Social Sciences with Howard University) did a whole IRB and is getting the households to agree to have sensors placed in the homes of Washington DC residents. Dr. Arial Saural (Tech side with Howard - Getting data out of the sensors). We wanted to replicate this community-style model and try to gather housing information from different houses in the community. Our goal was to want owner occupied buildings (not just units within buildings), but we may choose to ask for information about each unit as well.
+The goal was to want owner occupied buildings (not just units within buildings), but we may choose to ask for information about each unit as well.
 As a pivot from the national scale, we were to limit this to a smaller area focusing on houses surrounding Morgan State University within a specific geographic area.
 
 Our initial focus was to build a process to streamline and store this data somewhere. Ideally, utilizing Solid technology and storing them in pods. Once that data is the pod (Inrupt), we needed to build a dashboard on top of it. We will stand up pods in the area surrounding the Morgan campus, so BDC would request the data from these pods, and the owners of the pods would need to give access if they approve. After meeting with Inrupt, the focus was to shift to data aggregation and how to find useful data sets and extract from them.
 
-With collaboration with Dr. Chouchane and Dr. Sakk from the Computer Science department, our direction was aligned and we had to solve three main problem statements with future implementation
+With collaboration with Dr. Chouchane, Dr. Sakk, and under the directions of Dr. Wang from the Computer Science department, our direction was aligned and we had to solve three main problem statements with future implementation
 
 Solid Technology - https://www.inrupt.com/solid
 
