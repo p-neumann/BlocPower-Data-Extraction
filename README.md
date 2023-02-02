@@ -1,9 +1,7 @@
 # Pre-processing of data
-Data from Baltimore real property information was pre-processed with Python and stored in the data directory.
-
-The pre-processed data keep first 9999 rows for processing efficiency.
-
-Atributes of the pre-processed dataset can be added/removed based on the interests. 
+- Data from Baltimore real property information was pre-processed with Python and stored in the data directory.
+- The pre-processed data keep first 9999 rows for processing efficiency.
+- Atributes of the pre-processed dataset can be added/removed based on the interests. 
 
 
 
