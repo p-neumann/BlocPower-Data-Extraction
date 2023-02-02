@@ -1,3 +1,9 @@
+Data from Baltimore real property information was pre-processed with Python and stored in the data directory.
+The pre-processed data keep first 9999 rows for processing efficiency.
+Atributes of the pre-processed dataset can be added/removed based on the interests. 
+
+
+
 # Aggregation of Baltimore Housing Property Data
 The initial phase of the project to collect important housing data within the city of Baltimore and store them in decentralized Solid pods for public view and ownership
 
